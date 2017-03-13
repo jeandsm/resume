@@ -33,15 +33,21 @@ AXA IM is an asset manager managing ~€800b of assets. In this position I was p
 
 Online and live tutoring for College/MBA students in Colorado, Arizona and California. Courses covered include: Operations Management, Change Management, Knowledge Management, Engineering Economics, Business Planning.
 
-- Bombardier Aerospace (Software Integration, behalf IBM Canada), 1.5 years.
+- Bombardier Aerospace (Software Integration, behalf Accenture/IBM Canada), 1.5 years.
 
-I'm currently working on Cloud Foundry on the Open Source Release Integration team. Responsibilities include maintaining a release composed of multiple pieces of software jobs required to run a deployment of Cloud Foundry, as well as the acceptance tests and CI pipelines for Cloud Foundry
+Integration of CAD/PLM software Catia/Enovia V5 for aircraft design and manufacturing, including the management of a development project for a Catia V4 to V5 conversion tool, training 600+ end users on the various workbenches and providing support and best practices.
 
+- ITER Project (PLM consultant, behalf Accenture), 10 months.
 
+Training and support on Catia/Enovia V5 for a design office of 70 people in charge of electrical, piping, HVAC design for a site that will welcome 5,000 workers by 2022 and the world's largest experimental nuclear fusion reactor. Training and support also for the scientist building the inside of the Tokamak reactor, especially the magnets and coils that will channel the plasma and bring it to 150 million degrees celsius.
+
+- Volvo Trucks (CAD consultant, behalf Accenture), 1 year.
+
+Part of the customization team for special vehicles. Working with a team of designer on special vehicle specifications from clients with special needs (sports team, political campaign bus, artist tour bus).
 
 
 ###### Other skills & Interests
-- I am 100% French/English/Spanish trilingual. I was born in France but did part of my primary school in the UK and lived 4+ years in Spanish speaking countries. I also speak Portuguese at working proficiency. 
+- I am 100% French/English/Spanish trilingual. I was born in France but did part of my primary school in the UK and lived 4+ years in Spanish speaking countries. I also speak Portuguese at professional proficiency. 
 - I work well both in a team and independently.
 - I am passionate about data and enjoy getting my head around new data sets. I love challenging problems and solving them. I am happy to do pair programming or work solo depending on job needs, and love teaching and learning new methodologies.
 - I love surfing, playing football, traveling and cinema.
