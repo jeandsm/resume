@@ -14,7 +14,7 @@
 | Data Science | R, SQL, Octave, Elasticsearch, Python (basic)
 | Data Visualization | Kibana, Shiny (basic), D3.js (basic)
 | Web development | PHP 5, XHTML
-| Mobile Analytics | Fabric, Adjust, App store optimization
+| Mobile Analytics | Fabric, Adjust, Localytics, App store optimization
 | Project Management | PMBOK (PMI institute)
 
 
