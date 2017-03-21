@@ -50,4 +50,4 @@ Part of the customization team for special vehicles. Working with a team of desi
 - I am 100% French/English/Spanish trilingual. I was born in France but did part of my primary school in the UK and lived 4+ years in Spanish speaking countries. I also speak Portuguese at professional proficiency. 
 - I work well both in a team and independently.
 - I am passionate about data and enjoy getting my head around new data sets. I love challenging problems and solving them. I am happy to do pair programming or work solo depending on job needs, and love teaching and learning new methodologies.
-- I love surfing, playing football, traveling and cinema.
+- I love surfing, playing football, traveling and cinema, and I play the guitar and piano.
